@@ -2,6 +2,11 @@
 
 Flutter Business Card
 
+
+##
+<img width="361" alt="card" src="https://user-images.githubusercontent.com/69431876/157287646-64cc0ff5-f871-4491-9ad4-d0ab27fede00.png">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
